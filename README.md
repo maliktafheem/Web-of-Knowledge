@@ -40,7 +40,7 @@ The project utilizes the following data structures:
   - AVL Tree in Graph: Used to reduce search time complexity.
 
 ## Project Diagram
-![Project Flow](https://imageupload.io/uprhC3dPtcQLkZg)
+![Project Flow](https://imageupload.io/ib/94vFuW6JLtc72yw_1697466091.png)
 
 ## How to Run
 To run the program, execute the `finalproject.cpp` file. Data is provided in the `data.csv` file.
