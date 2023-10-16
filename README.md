@@ -1,5 +1,5 @@
 # Web-of-Knowledge
-##A data structures and algorithms project
+#A data structures and algorithms project
 
 ## Dataset
 This project revolves around a Research Publication Database. The dataset includes information about authors, articles, and their relationships.
